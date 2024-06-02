@@ -1,4 +1,5 @@
-# Company-Search
+# SpringBoot - Restful WebServices - H2 In-Mem Database - RestTemplate - TruProxy API Integeration - MockMVC
+## Company-Search SpringBoot Application
 
 * Swagger URL : http://localhost:8080/swagger-ui/index.html
 * H2 Console URL : http://localhost:8080/h2-console/
